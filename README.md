@@ -1,5 +1,10 @@
 # Build-Automation-Tool
-Build Automation Tool using python to build cpp files.
+
+• Built in python, this tool is capable of exploring a given directory structure,
+creating the action graph and then executing the action and its dependencies.
+
+• Avoids duplication of work and performs independent action execution in
+parallel whenever possible.
 
 File Structure-
 
